@@ -12,7 +12,9 @@ ao Server MQTT (AWS) e exibindo no Client MQTT <a href="www.google.com" target="
 
 <a href="github.com/UIPEthernet/UIPEthernet" target="_blank">UIPEthernet</a>
 
-<a href="github.com/knolleary/pubsubclient" target="_blank">pubsubclient</a>
+<a href="https://github.com/knolleary/pubsubclient" target="_blank">pubsubclient</a>
+
+
 
 
 
