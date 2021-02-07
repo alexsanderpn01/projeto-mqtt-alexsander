@@ -6,6 +6,8 @@ Repositório utilizado para demonstrar codigo criado para funcionamento do Ardui
 
 Magnético monitorando se a porta do Rack está ABERTO ! ou Fechado ! e enviando mensagem utilizando protocolo MQTT
 
-ao Server MQTT (AWS) e exibindo no Client MQTT (MQTT Dash) instalado em um Smartphone conforme figura abaixo:
+ao Server MQTT (AWS) e exibindo no Client MQTT <a href="www.google.com" target="_blank">MQQT Dash</a> instalado em um Smartphone conforme figura abaixo:
 
 <img src="./Image1.jpg">
+
+<a href="www.google.com" target="_blank">MQQT Dash</a>
