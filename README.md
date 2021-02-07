@@ -8,6 +8,6 @@ Magnético monitorando se a porta do Rack está ABERTO ! ou Fechado ! e enviando
 
 ao Server MQTT (AWS) e exibindo no Client MQTT <a href="www.google.com" target="_blank">MQQT Dash</a> instalado em um Smartphone conforme figura abaixo:
 
-<img src="./Image1.jpg">
+<img src="./Image1.jpg"/>
 
 <a href="www.google.com" target="_blank">MQQT Dash</a>
