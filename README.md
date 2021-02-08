@@ -14,6 +14,16 @@ ao Server MQTT (AWS) e exibindo no Client MQTT (<a href="https://play.google.com
 
 <a href="https://github.com/knolleary/pubsubclient" target="_blank">pubsubclient</a>
 
+# Materiais
+
+Arduino Uno
+
+Modulo Ethernet (ENC28J60)
+
+Sensor Magnético (MC-38)
+
+Jumpers
+
 
 
 
