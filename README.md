@@ -26,6 +26,12 @@ Sensor Magnético (MC-38)
 
 Jumpers
 
+## Circuito:
+
+<img src="./Image 2.jpg"/>
+
+Autor: Alex Sander
+
 
 
 
