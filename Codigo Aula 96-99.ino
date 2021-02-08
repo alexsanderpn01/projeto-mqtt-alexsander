@@ -52,10 +52,12 @@ void loop()
 
     if (estado_sensor == 1)
     {
+        Serial.println(" RACK ABERTO ! ");
         mensagem = mqqtClient.publish("alexsander-t", " RACK ABERTO ! ");
     }
     else
     {
+        Serial.println(" RACK FECHADO ! ");
         mensagem = mqqtClient.publish("alexsander-t", " RACK FECHADO ! ");
     }
     mqqtClient.loop();
