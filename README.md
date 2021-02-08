@@ -10,6 +10,8 @@ ao Server MQTT (AWS) e exibindo no Client MQTT (<a href="https://play.google.com
 
 <img src="./Image1.jpg"/>
 
+# Foram utilizadas as seguinte bibliotecas:
+
 <a href="https://github.com/UIPEthernet/UIPEthernet" target="_blank">UIPEthernet</a>
 
 <a href="https://github.com/knolleary/pubsubclient" target="_blank">pubsubclient</a>
