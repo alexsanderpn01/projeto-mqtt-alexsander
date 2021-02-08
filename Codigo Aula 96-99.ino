@@ -26,7 +26,7 @@ void setup()
 
     pinMode(pino2, INPUT_PULLUP);
 
-    mqqtClient.setServer("3.87.59.89", 1883);
+    mqqtClient.setServer("54.173.148.114", 1883);
 
     //Exibe no Monitor Serial as informações sobre o IP do Arduino
     Serial.print("O IP do Arduino e: ");
@@ -62,5 +62,4 @@ void loop()
 
     Serial.println(mensagem);
 
-    delay(500);
 }
